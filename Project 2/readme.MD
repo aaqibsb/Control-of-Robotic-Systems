@@ -1,2 +1,2 @@
-# Design and Simulation of LQR and LQG controller using matlab for a crane system with two suspended loads
+# Design and Simulation of LQR and LQG controller using MATLAB
 LQR and LQG controller for final project.
