@@ -1,5 +1,6 @@
-**variable_structure_PID.mdl**
-
+''''
+variable_structure_PID.mdl**
+''''
 This simulink model is located under the directory 'files'.
 
 This model is dependent on the following files that are located in the same folder:
