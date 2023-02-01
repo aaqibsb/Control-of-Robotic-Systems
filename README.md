@@ -1,4 +1,4 @@
-# Control-of-Robotic-Systems
+# Control of Robotic Systems
 Projects done during the course.
 
 ### Projects:
